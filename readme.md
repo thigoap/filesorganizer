@@ -30,9 +30,6 @@ If your folder has spaces, you will need to use " ":
 ``` python -m filesorganizer --help ```
 
 
-#### Another CLI version:
+#### Screenshots:
 
-There is another version of the script which does not need any external imports. I made this one (organizer.py inside exe folder) just to create a executable version of the script.
-You can run this version with:
-
-``` python organizer.py ```
+![filesorganizer](https://user-images.githubusercontent.com/11902225/167124931-cb70e48d-6599-4ea4-9cf5-aab50c367d38.png)
